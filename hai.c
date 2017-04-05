@@ -1,3 +1,4 @@
 #include<stdio.h>
 void main(){
-printf(" Welcome ");}
+printf(" Welcome ");
+printf(" to git ");}
